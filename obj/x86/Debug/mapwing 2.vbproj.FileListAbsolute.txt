@@ -1,0 +1,32 @@
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\bin\Debug\mapwing 2.exe
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\bin\Debug\mapwing 2.pdb
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\bin\Debug\mapwing 2.xml
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\bin\Debug\Interop.MapWinGIS.dll
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\bin\Debug\AxInterop.MapWinGIS.dll
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\Interop.MapWinGIS.dll
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\AxInterop.MapWinGIS.dll
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing 2.vbproj.ResolveComReference.cache
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing_2.Form1.resources
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing_2.Resources.resources
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing 2.exe
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing 2.xml
+C:\Users\ayoubovski\AppData\Local\Temporary Projects\mapwing 2\obj\x86\Debug\mapwing 2.pdb
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\Interop.MapWinGIS.dll
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\AxInterop.MapWinGIS.dll
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing 2.vbproj.ResolveComReference.cache
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing 2.exe
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing 2.xml
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing 2.pdb
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\bin\Debug\mapwing 2.exe
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\bin\Debug\mapwing 2.pdb
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\bin\Debug\mapwing 2.xml
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\bin\Debug\Interop.MapWinGIS.dll
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\bin\Debug\AxInterop.MapWinGIS.dll
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing_2.Form1.resources
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\mapwing_2.Resources.resources
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\LPGA\Info\Vb.Net\Vb.Net_TP\mapwing 2\mapwing 2\obj\x86\Debug\GenerateResource.write.1.tlog
