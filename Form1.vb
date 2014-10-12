@@ -5,15 +5,15 @@ Public Class Form1
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Dim layer As New Shapefile
         Dim ouvert As Boolean
-        ouvert = layer.Open("C:\Users\ayoubovski\Desktop\Data\Shapefiles\world_adm0.shp")
+        ouvert = layer.Open("C:\Users\ayoubovski\Desktop\Data\Shapefiles\cities_capital_pt.shp")
         If (ouvert) Then
 
             Dim layer_handle As Integer
             layer_handle = AxMap1.AddLayer(layer, True)
-            AxMap1.set_ShapeLayerLineColor(layer_handle, Convert.ToUInt32(RGB(0, 0, 0)))
-            AxMap1.set_ShapeLayerFillColor(layer_handle, Convert.ToUInt32(RGB(0, 0, 255)))
-            AxMap1.set_ShapeLayerLineWidth(layer_handle, 1)
-           
+            AxMap1.set_ShapeLayerPointType(layer_handle, tkPointType.ptDiamond)
+            AxMap1.set_ShapeLayerPointSize(layer_handle, 8)
+
+
 
 
 
